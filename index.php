@@ -60,5 +60,8 @@ I live in :
 <br>
 *Variables are provided via the EC2 Metadata Service
 </p>
+<br>
+<br>
+<a href="https://github.com/lang7/AWSLangclouddemo" title="github" target="new">github</a>
 </body>
 </html>
