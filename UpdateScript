@@ -1,0 +1,11 @@
+sudo su
+vi /etc/init.d/gitpull
+#!/bin/sh
+/home/ubuntu/gitpull.sh
+chmod ugo+x /etc/init.d/gitpull
+update-rc.d gitpull defaults
+
+
+cd AWSLangclouddemo
+git pull
+sudo cp index.php /var/www/html/index.php
