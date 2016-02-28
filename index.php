@@ -4,7 +4,8 @@
 <meta charset="UTF-8">
 <title>Langcloud</title>
 </head>
-<h1>Langcloud AWS Demo With Git Pull</h1>
+<h1>Langcloud AWS Demo</h1><br>
+with git pull update
 <body>
 <p>
 <img src="https://s3-eu-west-1.amazonaws.com/langclouddemo/img/ProtocolDroid.png" align="left">
