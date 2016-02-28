@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-Hello, you have commected to instance : 
+Hello, you have commected to instance :
 <?php
     $curl = curl_init();
     curl_setopt ($curl, CURLOPT_URL, "http://169.254.169.254/latest/meta-data/instance-id");
@@ -59,8 +59,6 @@ I live in :
 <br>
 <br>
 *Variables are provided via the EC2 Metadata Service
-
 </p>
-
 </body>
 </html>
