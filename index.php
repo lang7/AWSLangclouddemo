@@ -4,10 +4,11 @@
 <meta charset="UTF-8">
 <title>Langcloud</title>
 </head>
-<font face="verdana">
 <h1>Langcloud AWS Demo</h1><br>
-with git pull update
+
 <body>
+<font face="verdana">
+  with git pull update
 <p>
 <img src="https://s3-eu-west-1.amazonaws.com/langclouddemo/img/ProtocolDroid.png" align="left">
 <br>
@@ -65,6 +66,6 @@ I live in :
 <br>
 <br>
 <a href="https://github.com/lang7/AWSLangclouddemo" title="github" target="new">github</a>
-</body>
 </font>
+</body>
 </html>
