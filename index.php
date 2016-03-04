@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <title>Langcloud</title>
 </head>
+<font face="verdana">
 <h1>Langcloud AWS Demo</h1><br>
 with git pull update
 <body>
@@ -65,4 +66,5 @@ I live in :
 <br>
 <a href="https://github.com/lang7/AWSLangclouddemo" title="github" target="new">github</a>
 </body>
+</font>
 </html>
